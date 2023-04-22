@@ -9,6 +9,10 @@ import SwiftUI
 
 @main
 struct IOS_AppApp: App {
+    init() {
+        _ = Backend.initialize()
+    }
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
