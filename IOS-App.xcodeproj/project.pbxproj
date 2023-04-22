@@ -11,6 +11,8 @@
 		CE1FA23D29F47FAA002182B6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1FA23C29F47FAA002182B6 /* ContentView.swift */; };
 		CE1FA23F29F47FAB002182B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE1FA23E29F47FAB002182B6 /* Assets.xcassets */; };
 		CE1FA24229F47FAB002182B6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE1FA24129F47FAB002182B6 /* Preview Assets.xcassets */; };
+		CE1FA24929F48014002182B6 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1FA24829F48014002182B6 /* Note.swift */; };
+		CE1FA24B29F48023002182B6 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1FA24A29F48023002182B6 /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		CE1FA23C29F47FAA002182B6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE1FA23E29F47FAB002182B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE1FA24129F47FAB002182B6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CE1FA24829F48014002182B6 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
+		CE1FA24A29F48023002182B6 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				CE1FA23A29F47FAA002182B6 /* IOS_AppApp.swift */,
 				CE1FA23C29F47FAA002182B6 /* ContentView.swift */,
+				CE1FA24829F48014002182B6 /* Note.swift */,
+				CE1FA24A29F48023002182B6 /* UserData.swift */,
 				CE1FA23E29F47FAB002182B6 /* Assets.xcassets */,
 				CE1FA24029F47FAB002182B6 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				CE1FA23D29F47FAA002182B6 /* ContentView.swift in Sources */,
 				CE1FA23B29F47FAA002182B6 /* IOS_AppApp.swift in Sources */,
+				CE1FA24B29F48023002182B6 /* UserData.swift in Sources */,
+				CE1FA24929F48014002182B6 /* Note.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
